@@ -358,11 +358,13 @@ return 0;
 }
 ```
 ## Outputs - 
+### 1.
 <img width="529" alt="Screenshot 2024-08-26 at 1 25 52 AM" src="https://github.com/user-attachments/assets/01a20ed7-52e6-402b-9fa3-e9d7eacce6dc">
 <img width="663" alt="Screenshot 2024-08-26 at 1 38 00 AM" src="https://github.com/user-attachments/assets/f20dc09e-388f-4091-8052-0393e928398c">
-
+<img width="703" alt="Screenshot 2024-08-26 at 3 40 11 PM" src="https://github.com/user-attachments/assets/9c3c5e15-7d61-4e73-8d0c-b2dc63c1c202">
 <img width="565" alt="Screenshot 2024-08-26 at 2 00 05 AM" src="https://github.com/user-attachments/assets/457553d4-8d14-45f5-be71-da5efd833e38">
 <img width="801" alt="Screenshot 2024-08-26 at 2 03 21 AM" src="https://github.com/user-attachments/assets/72127e55-a74c-4ce4-84e9-4c0a33c3a239">
+
 
 
 
