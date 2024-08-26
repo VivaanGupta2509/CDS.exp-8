@@ -358,12 +358,31 @@ return 0;
 }
 ```
 ## Outputs - 
-### 1.
+### 1. Entering elements -
 <img width="529" alt="Screenshot 2024-08-26 at 1 25 52 AM" src="https://github.com/user-attachments/assets/01a20ed7-52e6-402b-9fa3-e9d7eacce6dc">
+
+### 2. Addition -
 <img width="663" alt="Screenshot 2024-08-26 at 1 38 00 AM" src="https://github.com/user-attachments/assets/f20dc09e-388f-4091-8052-0393e928398c">
+
+### 3. Subtraction - 
 <img width="703" alt="Screenshot 2024-08-26 at 3 40 11 PM" src="https://github.com/user-attachments/assets/9c3c5e15-7d61-4e73-8d0c-b2dc63c1c202">
+
+### 4. Transpose - 
 <img width="565" alt="Screenshot 2024-08-26 at 2 00 05 AM" src="https://github.com/user-attachments/assets/457553d4-8d14-45f5-be71-da5efd833e38">
+
+### 5. Diagonal Addition - 
 <img width="801" alt="Screenshot 2024-08-26 at 2 03 21 AM" src="https://github.com/user-attachments/assets/72127e55-a74c-4ce4-84e9-4c0a33c3a239">
+
+### 6. Multiplication -
+<img width="727" alt="Screenshot 2024-08-26 at 3 46 35 PM" src="https://github.com/user-attachments/assets/e683e034-58f0-4477-b7a6-6cb2a15e2cbd">
+
+## Conclusion - 
+
+Efficiently Store and Manipulate Data: Using 2D arrays, we can efficiently store data in a tabular format, making it easier to perform operations like addition, subtraction, and multiplication of matrices.
+
+Develop Problem-Solving Skills: Implementing matrix operations enhances logical thinking and problem-solving skills, as it requires careful consideration of indices, loops, and data handling.
+
+Understand Memory Management: Working with 2D arrays in C++ also provides an understanding of how memory is allocated and accessed in programming, especially in managing rows and columns of data.
 
 
 
